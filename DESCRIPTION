@@ -1,0 +1,11 @@
+Package: tempconvertr
+Title: Converting Temperature Values Easily
+Version: 0.1.0
+Author: Joachim Zuckarelli
+Maintainer: Joachim Zuckarelli <joachim@nevereverreply.com>
+Description: Convert temperatures between degrees Celsius, degrees 
+     Fahrenheit and Kelvin.
+License: GPL-3
+Imports: jsonlite
+Suggests: testthat
+RoxygenNote: 6.0.1
